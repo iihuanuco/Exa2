@@ -18,6 +18,7 @@ public class Ex1 {
         // TODO code application logic here
         System.out.print("esperar ");
         System.out.print("Ya salio ");
+        System.out.print("no se xq demora mucho ");
     }
     
 }
