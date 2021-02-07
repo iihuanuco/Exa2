@@ -17,6 +17,7 @@ public class Ex1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("esperar ");
+        System.out.print("Ya salio ");
     }
     
 }
