@@ -20,6 +20,8 @@ public class Exa2 {
         //x lo menos espero q ahora si no jada
         int i=0;
         i++;
+        int x=i*i;
+        System.out.println("Puede ser "+x);
     }
     
 }
