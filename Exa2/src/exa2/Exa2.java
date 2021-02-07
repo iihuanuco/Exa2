@@ -24,6 +24,7 @@ public class Exa2 {
         System.out.println("Puede ser "+x);
         for(i=0;i<12;i++)
             System.out.println("Puede ser "+x+i);
+        System.out.println("Muchas gracias ...");
     }
     
 }
