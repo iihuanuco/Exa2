@@ -22,6 +22,8 @@ public class Exa2 {
         i++;
         int x=i*i;
         System.out.println("Puede ser "+x);
+        for(i=0;i<12;i++)
+            System.out.println("Puede ser "+x+i);
     }
     
 }
