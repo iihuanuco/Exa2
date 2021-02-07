@@ -17,7 +17,9 @@ public class Exa2 {
     public static void main(String[] args) {
         // TODO code application logic here
         //por la chucha 
-        
+        //x lo menos espero q ahora si no jada
+        int i=0;
+        i++;
     }
     
 }
